@@ -10,9 +10,9 @@ I have a strong passion for the fields of **Data Science**, **Machine Learning**
 
 ---
 
-## 💡 Tech Toolbox
+## Tech Tools:
 
-### 🧰 Languages, Tools & Platforms I Use
+### Languages, Tools & Platforms I Use
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,7 +23,7 @@ I have a strong passion for the fields of **Data Science**, **Machine Learning**
 
 ---
 
-### 🤖 AI, ML & Data Science Arsenal
+### AI, ML & Data Science Arsenal
 
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/COMPUTER%20VISION-00796B?style=for-the-badge&logo=openvino&logoColor=white)
@@ -39,7 +39,7 @@ I have a strong passion for the fields of **Data Science**, **Machine Learning**
 ## 📫 Connect With Me
 
 - [LinkedIn](https://in.linkedin.com/in/dhaksana-n-51644625a)  
-- 📧 [Email](mailto:dhaksananataraj@gmail.com)
+- [Email](mailto:dhaksananataraj@gmail.com)
 
 ---
 <!--
